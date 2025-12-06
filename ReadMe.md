@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Barbaros Kılıçarslan,<br><br>Responsible, hardworking, and detail-minded. I can handle working under pressure and communicate and<br>collaborate seamlessly in a team. My passion for security stems from my curious and persistent nature,<br>constantly learning through all resources<br><br>🌱 I’m currently working as Offensive Security Engineer <br><br>💿 My website can be found:<a class="website" href= "https://barbaroskilicarslan.com/"> Here</a>  <br><br>💬 Contact me on Linkedin<br><br>😄 I'm interested in things like reading 📖, traveling 🌍, and martial arts 🥊
+Hi 👋, I'm Barbaros Kılıçarslan,<br><br>Responsible, hardworking, and detail-minded. I can handle working under pressure and communicate and<br>collaborate seamlessly in a team. My passion for security stems from my curious and persistent nature,<br>constantly learning through all resources<br><br>🌱 I’m currently working as Offensive Security Engineer <br><br>💿 My website can be found:<a class="website" href= "https://barbaroskilicarslan.com/"> Here</a>  <br><br>💬 Contact me on Linkedin<br><br> I'm interested in things like reading 📖, traveling 🌍, and martial arts 🥊
 
 
 ## 🌐 Socials:
